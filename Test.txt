@@ -1,5 +1,29 @@
 Paste Synchronized Java Class Output here 
 synchronized
+// Instance method - 0
+// Instance method - 1
+// Instance method - 2
+// Instance method - 3
+// Instance method - 4
+// Instance method - 0
+// Instance method - 1
+// Instance method - 2
+// Instance method - 3
+// Instance method - 4
+
 // Fill The Output Here
 static synchronized
+
+// Static method - 0
+// Static method - 1
+// Static method - 2
+// Static method - 3
+// Static method - 4
+// Static method - 0
+// Static method - 1
+// Static method - 2
+// Static method - 3
+// Static method - 4
+
   // Fill The Output Here
+Thread-0 
