@@ -1,5 +1,28 @@
 Paste Synchronized Java Class Output here 
 synchronized
 // Fill The Output Here
+synchronizedThread-0
+synchronizedThread-1
+synchronizedThread-1
+synchronizedThread-0
+synchronizedThread-0
+synchronizedThread-0
+synchronizedThread-1
+synchronizedThread-1
+synchronizedThread-0
+synchronizedThread-0
+
+   
+  
 static synchronized
   // Fill The Output Here
+synchronizedThread-0
+synchronizedThread-0
+synchronizedThread-0
+synchronizedThread-0
+synchronizedThread-0
+synchronizedThread-1
+synchronizedThread-1
+synchronizedThread-1
+synchronizedThread-1
+synchronizedThread-1
