@@ -1,5 +1,16 @@
 Paste Synchronized Java Class Output here 
 synchronized
-// Fill The Output Here
-static synchronized
-  // Fill The Output Here
+o/p
+Mani
+Mani
+Mani
+Mani
+Mani
+
+#static synchronized
+o/p
+Charan
+Charan
+Charan
+Charan
+Charan
