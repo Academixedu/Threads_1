@@ -1,5 +1,29 @@
 Paste Synchronized Java Class Output here 
-synchronized
-// Fill The Output Here
-static synchronized
-  // Fill The Output Here
+
+  synchronized
+   // Fill The Output Here
+    synchronized - Count: 0
+    synchronized - Count: 1
+    synchronized - Count: 2
+    synchronized - Count: 3
+    synchronized - Count: 4
+    synchronized - Count: 5
+    synchronized - Count: 6
+    synchronized - Count: 7
+    synchronized - Count: 8
+    synchronized - Count: 9
+
+
+  static synchronized
+    // Fill The Output Here
+    static synchronized - Count: 0
+    static synchronized - Count: 1
+    static synchronized - Count: 2
+    static synchronized - Count: 3
+    static synchronized - Count: 4
+    static synchronized - Count: 5
+    static synchronized - Count: 6
+    static synchronized - Count: 7
+    static synchronized - Count: 8
+    static synchronized - Count: 9
+
